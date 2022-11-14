@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">MyApplication</string>
-    <string name="buttonMessage">Submit</string>
-    <string name="label">What animal is this?</string>
-    <string name="Description">This is a</string>
-    <string name="animal">animalPhoto</string>
-</resources>
