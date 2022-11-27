@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="dotask">"You should"</string>
+    <string name="time">"at"</string>
+    <string name="addTask">"Add task"</string>
+    <string name="taskname">"Name"</string>
+    <string name="tasktime">"Time"</string>
+    <string name="add">"Add"</string>
+    <string name="taskadded">"Task added"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="delete">Do you want to remove this task?</string>
+    <string name="taskdeleted">Task deleted</string>
+    <string name="yes">"Yes"</string>
+    <string name="no">"No"</string>
+</resources>
