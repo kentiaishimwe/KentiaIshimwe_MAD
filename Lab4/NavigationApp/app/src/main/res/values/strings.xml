@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="field_search">"Enter your search"</string>
+    <string name="animals">"Animals"</string>
+</resources>
